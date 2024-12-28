@@ -1,6 +1,8 @@
 # Hi, I'm Miguel! 👋  
 💻 Software Developer | 🎮 Game Creator 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clunnyc&show_icons=true&hide_title=true)
+
 ## About Me  
 I’m a versatile developer and creator, passionate about building innovative games, websites, and web applications. I thrive on crafting engaging experiences, solving complex problems, and delivering impactful solutions.
 Currently, I’m working on:
