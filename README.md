@@ -12,11 +12,29 @@ I’m also learning:
 - 🛠️ Tools like **GitHub Actions** and **Docker**.
 
 - ## Tech Stack  
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) 
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3) 
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
+
+### Backend & General Programming
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)  
+![C#](https://img.shields.io/badge/-C%23-green?style=flat&logo=c-sharp)  
+![Lua](https://img.shields.io/badge/-Lua-blue?style=flat&logo=lua)  
+
+### Game Development
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)  
-![RPG Maker](https://img.shields.io/badge/-RPG%20Maker-purple?style=flat&logo=rpg-maker)  
+![RPG Maker](https://img.shields.io/badge/-RPG%20Maker-purple?style=flat)  
+
+### Version Control
+![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)  
+![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-blue?style=flat&logo=github)  
+
+### Productivity & Organization
+![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion)
+
 
 ## Featured Projects  
 - 🎮 [Heartcastle](https://heartcastle.fandom.com/wiki/HeartCastle_Wiki): A combat-focused RPG made with RPG Maker MZ.  
