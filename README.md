@@ -46,5 +46,5 @@ I’m also learning:
 🌐 Portfolio:                                                                
 💼 LinkedIn: [Miguel Costa](https://www.linkedin.com/in/miguel-costa-6401b5341/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=clunnyc&theme=radical&no-frame=true&row=2&column=3&title=Commits,Stars,Followers,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=clunnyc&theme=radical&no-frame=true&row=2&column=3&title=Commits,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
