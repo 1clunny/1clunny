@@ -19,9 +19,9 @@ I’m also learning:
 ![RPG Maker](https://img.shields.io/badge/-RPG%20Maker-purple?style=flat&logo=rpg-maker)  
 
 ## Featured Projects  
-- 🎮 [Heartcastle](https://github.com/username/heartcastle): A combat-focused RPG made with RPG Maker MZ.  
-- 🌾 [Farm Simulator](https://github.com/username/farm-simulator): A farming game inspired by 'Fisch' on Roblox.  
-- 📱 [My First Mobile App](https://github.com/username/my-first-app): A beginner-friendly app showcasing my mobile development skills.  
+- 🎮 [Heartcastle](https://heartcastle.fandom.com/wiki/HeartCastle_Wiki): A combat-focused RPG made with RPG Maker MZ.  
+- 🌾 [Farm Simulator](): A farming game inspired by 'Fisch' on Roblox.  
+- 📱 [My First Mobile App](): A beginner-friendly app showcasing my mobile development skills.  
 
 ## Let’s Connect  
 📧 Email: [matteocostta@proton.me](mailto:matteocostta@proton.me)  
