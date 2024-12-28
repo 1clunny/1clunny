@@ -2,7 +2,7 @@
 💻 Software Developer | 🎮 Game Creator | 🌱 Lifelong Learner  
 
 ## About Me  
-I’m a [developer/game creator/etc.] passionate about building innovative apps, games, and solutions.  
+I’m a developer/game, web site, web app creator/ passionate about building innovative apps, games, and solutions.  
 Currently, I’m working on:
 - 🎮 Developing **[Heartcastle](https://heartcastle.fandom.com/wiki/HeartCastle_Wiki)** (an RPG Maker game).  
 - 🌾 Building a **farming-style Roblox game**.  
