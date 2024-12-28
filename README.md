@@ -49,8 +49,7 @@ I’m also learning:
 
 ## Let’s Connect  
 📧 Email: [matteocostta@proton.me](mailto:matteocostta@proton.me)  
-🌐 Portfolio: clunnyc.github.io
-                                                      
+🌐 Portfolio: clunnyc.github.io                                                
 💼 LinkedIn: [Miguel Costa](https://www.linkedin.com/in/miguel-costa-6401b5341/)  
 
 
