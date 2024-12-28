@@ -1,5 +1,5 @@
 # Hi, I'm Miguel! 👋  
-💻 Software Developer | 🎮 Game Creator | 🌱 Lifelong Learner  
+💻 Software Developer | 🎮 Game Creator 
 
 ## About Me  
 I’m a versatile developer and creator, passionate about building innovative games, websites, and web applications. I thrive on crafting engaging experiences, solving complex problems, and delivering impactful solutions.
