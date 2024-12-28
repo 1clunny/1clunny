@@ -4,7 +4,7 @@
 ## About Me  
 I’m a [developer/game creator/etc.] passionate about building innovative apps, games, and solutions.  
 Currently, I’m working on:
-- 🎮 Developing **[Heartcastle](#)** (an RPG Maker game).  
+- 🎮 Developing **[Heartcastle](https://heartcastle.fandom.com/wiki/HeartCastle_Wiki)** (an RPG Maker game).  
 - 🌾 Building a **farming-style Roblox game**.  
 
 I’m also learning:
