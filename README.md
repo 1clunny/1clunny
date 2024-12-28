@@ -1,4 +1,4 @@
-# Hi, I'm [Miguel]! 👋  
+# Hi, I'm Miguel! 👋  
 💻 Software Developer | 🎮 Game Creator | 🌱 Lifelong Learner  
 
 ## About Me  
