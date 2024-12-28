@@ -1,7 +1,10 @@
 # Hi, I'm Miguel! 👋  
 💻 Software Developer | 🎮 Game Creator 
 ---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clunnyc&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=clunnyc)
 
 ---
 ## About Me  
