@@ -48,7 +48,7 @@ I’m also learning:
 - 📱 [My First Mobile App](): A beginner-friendly app showcasing my mobile development skills.  
 
 ## Let’s Connect  
-📧 Email: [miguelcostta@icloud.com](mailto:miguelcostta@icloud.com)  
+📧 Email: [miguellomcostta@icloud.com](mailto:miguellomcostta@icloud.com)  
 🌐 Portfolio: clunnyc.github.io                                                
 💼 LinkedIn: [Miguel Costa](https://www.linkedin.com/in/miguel-costa-6401b5341/)  
 
