@@ -1,4 +1,6 @@
 # 👋 Hey there, I’m Miguel Costa
+![Profile Views](https://komarev.com/ghpvc/?username=clunnyc&style=flat-square)
+
 
 🎮 **Game Developer** | 💻 **Full-Stack Learner** | 🌱 **Creative Coder**
 
