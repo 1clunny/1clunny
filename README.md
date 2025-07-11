@@ -1,10 +1,11 @@
 # 👋 Hey there, I’m Miguel Costa
-![Profile Views](https://komarev.com/ghpvc/?username=clunnyc&style=flat-square)
 
 
 🎮 **Game Developer** | 💻 **Full-Stack Learner** | 🌱 **Creative Coder**
 
 Welcome to my world of creativity and code! I’m passionate about developing unique games and digital experiences that leave an impact. Whether it's crafting a pixel-perfect UI or building immersive gameplay mechanics, I love turning ideas into reality.
+
+![Profile Views](https://komarev.com/ghpvc/?username=clunnyc&style=flat-square)
 
 ---
 
