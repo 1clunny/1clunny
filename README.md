@@ -49,7 +49,7 @@ Welcome to my world of creativity and code! I’m passionate about developing un
 
 ### 🏰 Heartcastle  
 A rich RPG adventure focusing on strategy, narrative, and combat.  
-🕹️ Built with RPG Maker MZ | 📖 [Learn more](https://heartcastle.fandom.com/wiki/HeartCastle_Wiki)
+🕹️ Built with RPG Maker MZ | 📖 [Learn more](https://heartcastle.fandom.com/wiki/Heartcastle_Wiki)
 
 ### 🌾 Roblox Farm Simulator *(Coming Soon)*  
 A cozy farming sim with a twist – inspired by Roblox’s _Fisch_.  
