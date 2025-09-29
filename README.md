@@ -62,7 +62,7 @@ Welcome to my chaotic lab of code + pixels. I build **games**, break reality wit
 
 ## 🌐 Connect With Me 💌
 
-- 🖥️ **Portfolio**: [clunnyc.github.io](https://clunnyc.github.io)  
+- 🖥️ **Portfolio**: [1clunny.github.io](https://1clunny.github.io)  
 - 📧 **Email**: [miguellomcostta@icloud.com](mailto:miguellomcostta@icloud.com)  
 - 💼 **LinkedIn**: [Miguel Costa](https://www.linkedin.com/in/miguel-costa-6401b5341/)  
 
