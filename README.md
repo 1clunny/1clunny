@@ -1,4 +1,4 @@
-ee# 👾 Yo! I’m Miguel Costa 🚀
+# 👾 Yo! I’m Miguel Costa 🚀
 
 🎮 **Game Dev** | 🧑‍💻 **Full-Stack Adventurer** | 🌱 **Creative Code Alchemist**
 
