@@ -56,7 +56,6 @@ Welcome to my chaotic lab of code + pixels. I build **games**, break reality wit
 ## 📊 Stats Mode (a.k.a. flex zone 💪)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=1clunny&show_icons=true&theme=tokyonight&hide_title=true)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=1clunny&theme=tokyonight&no-frame=true&row=2&column=3)  
 
 ---
 
