@@ -1,4 +1,4 @@
-# 👾 Yo! I’m Miguel Costa 🚀
+ee# 👾 Yo! I’m Miguel Costa 🚀
 
 🎮 **Game Dev** | 🧑‍💻 **Full-Stack Adventurer** | 🌱 **Creative Code Alchemist**
 
@@ -55,10 +55,8 @@ Welcome to my chaotic lab of code + pixels. I build **games**, break reality wit
 
 ## 📊 Stats Mode (a.k.a. flex zone 💪)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=clunnyc&show_icons=true&theme=tokyonight&hide_title=true)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=clunnyc&theme=tokyonight&no-frame=true&row=2&column=3)  
-
-![Sticker](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Stats](https://github-readme-stats.vercel.app/api?username=1clunny&show_icons=true&theme=tokyonight&hide_title=true)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=1clunny&theme=tokyonight&no-frame=true&row=2&column=3)  
 
 ---
 
